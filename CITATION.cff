@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Name
+    given-names: Name
+    orcid: 
+title: "Software Example"
+version: 1.0.0
+doi: https://sandbox.zenodo.org/badge/latestdoi/502012270
+date-released: 2022.06.10
